@@ -7,7 +7,7 @@
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=shreyas21563&theme=chartreuse-dark"></p>
 
 ### 🛠 &nbsp;Tech Stack
-<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/python-light.svg" width="50" alt="Python"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/python-light.svg" width="50" alt="Python" title="Python"></a>
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/c-light.svg" width="50"></a>
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/cpp-light.svg" width="50"></a>
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/java-light.svg" width="50"></a>

@@ -8,23 +8,23 @@
 
 ### 🛠 &nbsp;Tech Stack
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/python-light.svg" width="50" alt="Python" title="Python"></a>
-<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/c-light.svg" width="50"></a>
-<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/cpp-light.svg" width="50"></a>
-<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/java-light.svg" width="50"></a>
-<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/git.svg" width="50"></a>
-<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/github-dark.svg" width="50"></a>
-<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/vscode-light.svg" width="50"></a>
-<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/googlecolaboratory-light.svg" width="50"></a>
-<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/kaggle-light.svg" width="50"></a>
-<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/pytorch-light.svg" width="50"></a>
-<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/pandas-light.svg" width="50"></a>
-<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/numpy-light.svg" width="50"></a>
-<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/matplotlib-light.svg" width="50"></a>
-<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/seaborn-light.svg" width="50"></a>
-<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/intellijidea-light.svg" width="50"></a>
-<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/streamlit-light.svg" width="50"></a>
-<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/huggingface-light.svg" width="50"></a>
-<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/langchain-light.svg" width="50"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/c-light.svg" width="50" title="C"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/cpp-light.svg" width="50" title="C++"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/java-light.svg" width="50" title="Java"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/git.svg" width="50" title="Git"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/github-dark.svg" width="50" title="Github"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/vscode-light.svg" width="50" title="VS Code"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/googlecolaboratory-light.svg" width="50" title="Google Colab"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/kaggle-light.svg" width="50" title="Kaggle"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/pytorch-light.svg" width="50" title="Pytorch"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/pandas-light.svg" width="50" title="Pandas"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/numpy-light.svg" width="50" title="NumPy"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/matplotlib-light.svg" width="50" title="Matplotlib"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/seaborn-light.svg" width="50" title="Seaborn"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/intellijidea-light.svg" width="50" title="IntelliJ Idea"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/streamlit-light.svg" width="50" title="Streamlit"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/huggingface-light.svg" width="50" title="Hugging Face"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/langchain-light.svg" width="50" title="LangChain"></a>
 
 ### :link: &nbsp;Connect with me
 

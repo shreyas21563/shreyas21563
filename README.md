@@ -25,6 +25,7 @@
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/streamlit-light.svg" width="50" title="Streamlit"></a>
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/huggingface-light.svg" width="50" title="Hugging Face"></a>
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/langchain-light.svg" width="50" title="LangChain"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/latex-light.svg" width="50" title="Latex"></a>
 
 ### :link: &nbsp;Connect with me
 
